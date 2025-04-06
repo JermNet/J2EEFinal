@@ -132,3 +132,23 @@
 
 # webpages
 ## Main Page
+![image](https://github.com/user-attachments/assets/412884a8-0c80-40aa-93ac-a18c288ff631)
+
+## Sign Up Page
+![image](https://github.com/user-attachments/assets/467fa596-5e65-4d2e-bfef-4bbe63724a63)
+
+## Login Page
+![image](https://github.com/user-attachments/assets/e270d1c2-8c6b-4c94-aec6-d0791574e425)
+
+## Transaction Page
+![image](https://github.com/user-attachments/assets/bd8fff54-10e5-4e52-8f78-0e91672272e4)
+![image](https://github.com/user-attachments/assets/a6b2e4cb-dea1-480a-bf2d-1eba01ddde43)
+
+## Automated Transactions Page
+![image](https://github.com/user-attachments/assets/9424cd86-2672-46cd-bf68-7b076935633d)
+
+## Budget Page
+![image](https://github.com/user-attachments/assets/a4b138ec-2b48-4659-ab69-5ecf4dd5f71a)
+
+## Investments Page
+![image](https://github.com/user-attachments/assets/d9c972ac-8dcb-4c10-8781-fa8b91e197ec)
